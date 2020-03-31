@@ -1,0 +1,10 @@
+q1      DONE            3
+q2      DONE            2
+q3      DONE            3
+q4      DONE            4
+q5      DONE            3
+q6      DONE            4
+q7      DONE            2
+q8      NOT DONE        4
+
+points : 21 / 25
